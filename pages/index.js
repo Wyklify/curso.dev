@@ -1,6 +1,6 @@
 function Home() {
 
-    return <h1> Se você der uma risadinha </h1>
+    return <h1> Gabri, dê uma risadinha, se você ... </h1>
 }
 
 export default Home;
